@@ -8,6 +8,6 @@ By doing so, ANDez enables computer and information science researchers to compa
 ## How to use files
 1. Download four files: 'ANDez.py', 'cluevalmetrics.py', 'modules.py', and 'procedures.py', . Make sure that they are located in the same directory. <br />
 2. Place your input files into the directory. You can use sample files provided in the data folder. <br />
-3. Make sure that packages in the 'requirements.txt' file are installed. The file also includes a version of each package. You can also install packages using pip: <br />
-pip install -r requirements.txt   <br />
+3. Make sure that packages in the 'requirements.txt' file are installed. You can install packages using pip: 
+4. pip install -r requirements.txt  
 4. Run 'ANDez.py' file. <br />
