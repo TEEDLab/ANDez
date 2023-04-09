@@ -6,7 +6,7 @@ ANDez is an open-source framework that integrates the workflows of several high-
 By doing so, ANDez enables computer and information science researchers to compare, reuse, and improve existing ML methods of AND to use current methods as baselines in developing new tools. With a simple implementation design, ANDez is also expected to assist scholars who need to analyze ambiguous bibliographic data but lack the skills to write and implement sophisticated ML code.
 
 ## How to use files
-1. To get the results described in the paper, all the code was implemented on Python 3.9.16. To run the code, make sure that all packages in 'requirements.txt' file are installed. You can install them using pip. Type the following command in the terminal or command prompt: 
+1. To get the results described in the paper, the code was implemented on Python 3.9.16. To run the code, make sure that all packages in 'requirements.txt' file are installed. You can install them using pip. Type the following command in the terminal or command prompt: 
                 
                 pip install -r requirements.txt  
 
